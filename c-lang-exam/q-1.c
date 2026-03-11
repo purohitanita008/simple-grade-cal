@@ -38,4 +38,6 @@ int main (){
         printf("Please try again next time.");
     }
 
+    return 0;
+
 }
